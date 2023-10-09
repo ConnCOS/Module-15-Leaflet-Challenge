@@ -7,6 +7,10 @@ Tools
 
 Acquiring a GeoJSON dataset for earthquake activity visualization.
 Incorporating maps from openstreetmap.org for map illustration/location purposes
+JSON
+D3
+JavaScript
+HTML
 
 Key Steps
 
